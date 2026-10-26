@@ -19,3 +19,5 @@ expense-tracker/
 ├── tracker.py      # Core logic and file handling functions
 ├── expenses.json   # Local database (auto-generated)
 └── README.md       # Project documentation
+
+<img width="367" height="174" alt="image" src="https://github.com/user-attachments/assets/a70219da-7844-42d3-8b8a-283d47454b25" />
