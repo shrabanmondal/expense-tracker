@@ -1,0 +1,7 @@
+# Local data
+expenses.json
+*.csv
+
+# Python byte-code
+__pycache__/
+*.pyc
